@@ -73,7 +73,8 @@ We also use some visualizations (with ggplot) in order to better understand the 
 
 
 ## <a name="Prediction"></a> Prediction
-Now, we will build and fit some models to the training set and we will compute their accuracy on the testing set. For this purpose, we will build seven different models: Decision Tree (CART), Random Forest (RF), Forest of conditional inference trees, Generalized Linear Model (GLM), Gradient Boosting Machine (GBM), Neural Network (NN) and Support Vector Machine (SVM) with Radial Basis Function Kernel. We reset the random number seed before each run to ensure that each algorithm will be evaluated using the same data partitions. This means that the results will be directly comparable.
+Now, we will build and fit some models to the training set and we will compute their accuracy on the testing set. For this purpose, we will build seven different models: **Decision Tree (CART)**, **Random Forest (RF)**, **Forest of conditional inference trees**, **Generalized Linear Model (GLM)**, **Gradient Boosting Machine (GBM)**, **Neural Network (NN)** and **Support Vector Machine (SVM) with Radial Basis Function Kernel**. We reset the random number seed before each run to ensure that each algorithm will be evaluated using the same data partitions. This means that the results will be directly comparable.
+
 More details can be found within the project.
 
 
