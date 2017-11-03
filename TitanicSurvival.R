@@ -1997,4 +1997,4 @@ for (i in 1:length(predictors)) {
 # 19. Survived ~ Age + Sex + Pclass + Fare + Title + Embarked + 
 #             FamilySize + FamilyID + SibSp + Parch              0.8597082   0.80382 (best)
 
-       
+      
